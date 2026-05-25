@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+cs231n/datasets/
+*.zip
+*.pdf
+*.egg-info/
+build/
+dist/
+.DS_Store
